@@ -109,3 +109,11 @@ nav li {
     padding-right: 10px;
     padding-bottom: 10px;
 }
+@media screen and (min-width: 965px) {
+    #container2{
+        max-width: 540px;
+    }
+    header{
+        max-width: 1000%;
+    }
+}
